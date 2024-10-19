@@ -80,7 +80,7 @@ export const testimonial = [
   {
     id: 1,
     name: "Ashish Kamathi",
-    cover: "/images/WhatsApp Image 2024-10-19 at 22.24.03.jpeg",
+    cover: "/images/ashish.jpg",
     post: "SVryse - Founder & CEO",
     desc: "GetitDone consistently delivers high-quality edits with a quick turnaround. The team's attention to detail and creative approach make my videos stand out, enhancing the final product every time. I highly recommend them for any content needs. ",
     url: "https://www.linkedin.com/posts/ashishkamathi_seo-is-changing-fast-googles-helpful-activity-7248324468840800257-5u9Z?utm_source=share&utm_medium=member_desktop",
@@ -96,7 +96,7 @@ export const testimonial = [
   {
     id: 3,
     name: "Karunnesh ",
-    cover: "/images/dm3.png",
+    cover: "/images/karunesh.jpg",
     post: "IPL Coach",
     desc: "You guys exceeded my expectations! As a health coach, they perfectly captured my message and delivered high-quality work ahead of schedule. The team was flexible, made seamless adjustments, and ensured everything was spot on. I couldn’t have asked for a better partner!",
     url: "https://www.instagram.com/reel/DA5JLpyiUaX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -104,7 +104,7 @@ export const testimonial = [
   {
     id: 4,
     name: "Raj",
-    cover: "/images/ui2.png",
+    cover: "/images/raj.jpg",
     post: "Cricbolt.co- Founder",
     desc: "I was thoroughly impressed with your work! You consistently delivered my project on time, often even ahead of schedule, which was a huge plus. What stood out even more was your willingness to make revisions without hesitation, ensuring everything was exactly as I envisioned. The entire process was seamless, and the final result exceeded my expectations.",
     url: "https://www.instagram.com/reel/C97K1oyiD8e/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
@@ -112,7 +112,7 @@ export const testimonial = [
   {
     id: 5,
     name: "Bani Aneja",
-    cover: "/images/ui2.png",
+    cover: "/images/bani.jpg",
     post: "Social Media Strategist",
     desc: "Working with you guys I realised that GetItDone is one of the best agencies I’ve worked with! Their creativity, attention to detail, and ability to deliver polished content ahead of schedule are outstanding. The team is responsive and goes above and beyond to exceed expectations. Highly recommend!",
     url: "https://www.linkedin.com/in/organicsocialmediastrategist/",
@@ -372,13 +372,15 @@ export const three = [
     vedioId: "111O5Gj3zSU",
     category: "WEBSITES",
     url: "https://www.youtube.com/shorts/111O5Gj3zSU",
-  },{
+  },
+  {
     id: 3,
     title: "3d",
     vedioId: "7anKqdNp5RE",
     category: "WEBSITES",
     url: "https://www.youtube.com/shorts/7anKqdNp5RE",
-  },{
+  },
+  {
     id: 4,
     title: "3d",
     vedioId: "7anKqdNp5RE",
