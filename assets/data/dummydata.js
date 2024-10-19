@@ -103,7 +103,7 @@ export const testimonial = [
   },
   {
     id: 4,
-    name: "Fizza",
+    name: "SAHIL RANDI",
     cover: "/images/ui2.png",
     post: "CHUT me Land",
     desc: "Shanzal ne meri bahut pyaar se chut maari hai mujhe bahut  maza ata hai thank you sanzu sexy  land leke mera chut ka chabutara krne ke lie",
