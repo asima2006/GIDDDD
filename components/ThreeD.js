@@ -1,16 +1,4 @@
-import {
-  showcase,
-  longform,
-  ImanGadzi,
-  Anime,
-  FastEdits,
-  ShortForm,
-  Advertisement,
-  Animation,
-  VFX,
-  Faceless,
-  three,
-} from "../assets/data/dummydata";
+import { three } from "../assets/data/dummydata";
 import { Vedio } from "./common/Vedio";
 import { Title, TitleSm } from "./common/Title";
 import React from "react";

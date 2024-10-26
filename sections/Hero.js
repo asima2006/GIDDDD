@@ -41,10 +41,8 @@ const Hero = () => {
       </section>
       <ShowCase />
       {/* <Expertise /> */}
-       
       <Banner />
       <Testimonial />
-
       <Brand />
 
       <div className="text-center">

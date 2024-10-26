@@ -3,7 +3,7 @@ import { TfiRulerPencil } from "react-icons/tfi";
 import { VscFileSubmodule } from "react-icons/vsc";
 import { BiUser } from "react-icons/bi";
 import Link from "next/link";
-import Banner from "./../../components/Banner";
+// import Banner from "./../../components/Banner";
 
 export const home = [
   {
@@ -23,59 +23,60 @@ export const home = [
     title: "Customer satisfaction is our top priority",
   },
 ];
-export const expertise = [
-  {
-    id: 1,
-    title: "Web Design & Development",
-    cover: "/images/wd3.jpeg",
-    width: "100%",
-    height: "100%",
-    desc: [
-      { text: "Web design" },
-      { text: "Web development" },
-      { text: "Custom icons & illustrations" },
-      { text: "Hosting" },
-      { text: "Website audit" },
-    ],
-    url: "https://stag-ex-splash.vercel.app/",
-  },
-  {
-    id: 2,
-    title: "Digital Marketing",
-    cover: "/images/dm3.jpeg",
-    desc: [
-      { text: "Social media marketing" },
-      { text: "Marketing campaigns" },
-      { text: "Markting management" },
-      { text: "SEO" },
-    ],
-    url: "https://stag-ex-splash.vercel.app/",
-  },
-  {
-    id: 3,
-    title: "UI/UX Design",
-    cover: "/images/ui2.jpeg",
-    desc: [
-      { text: "E-Commerce website design" },
-      { text: "WooCommerce" },
-      { text: "Content management" },
-      { text: "Merch Designing" },
-    ],
-    url: "https://stag-ex-splash.vercel.app/",
-  },
-  {
-    id: 4,
-    title: "Managing your Buisness",
-    cover: "/images/e4.jpg",
-    desc: [
-      { text: "Visual identity" },
-      { text: "Branding for social media" },
-      { text: "Custom illustrations" },
-      { text: "Online presence on platforms like Linkedin, Instagram, etc." },
-    ],
-    url: "https://stag-ex-splash.vercel.app/",
-  },
-];
+// export const expertise = [
+//   {
+//     id: 1,
+//     title: "Web Design & Development",
+//     cover: "/images/wd3.jpeg",
+//     width: "100%",
+//     height: "100%",
+//     desc: [
+//       { text: "Web design" },
+//       { text: "Web development" },
+//       { text: "Custom icons & illustrations" },
+//       { text: "Hosting" },
+//       { text: "Website audit" },
+//     ],
+//     url: "https://stag-ex-splash.vercel.app/",
+//   },
+//   {
+//     id: 2,
+//     title: "Digital Marketing",
+//     cover: "/images/dm3.jpeg",
+//     desc: [
+//       { text: "Social media marketing" },
+//       { text: "Marketing campaigns" },
+//       { text: "Markting management" },
+//       { text: "SEO" },
+//     ],
+//     url: "https://stag-ex-splash.vercel.app/",
+//   },
+//   {
+//     id: 3,
+//     title: "UI/UX Design",
+//     cover: "/images/ui2.jpeg",
+//     desc: [
+//       { text: "E-Commerce website design" },
+//       { text: "WooCommerce" },
+//       { text: "Content management" },
+//       { text: "Merch Designing" },
+//     ],
+//     url: "https://stag-ex-splash.vercel.app/",
+//   },
+//   {
+//     id: 4,
+//     title: "Managing your Buisness",
+//     cover: "/images/e4.jpg",
+//     desc: [
+//       { text: "Visual identity" },
+//       { text: "Branding for social media" },
+//       { text: "Custom illustrations" },
+//       { text: "Online presence on platforms like Linkedin, Instagram, etc." },
+//     ],
+//     url: "https://stag-ex-splash.vercel.app/",
+//   },
+// ];
+
 export const testimonial = [
   {
     id: 1,
@@ -88,7 +89,7 @@ export const testimonial = [
   {
     id: 2,
     name: "Yusuf",
-    cover: "/images/e4.png",
+    cover: "/images/ashish.jpg",
     post: "Youtube Channel",
     desc: "I have worked with you guys numerous times because I know I will always receive an outstanding product. I will continue to work with you for all of my projects needs. Your ability to produce quality is impressive.",
     url: "https://stag-ex-splash.vercel.app/",
@@ -366,27 +367,27 @@ export const three = [
     category: "WEBSITES",
     url: "https://www.youtube.com/shorts/7anKqdNp5RE",
   },
-  {
-    id: 2,
-    title: "3d",
-    vedioId: "111O5Gj3zSU",
-    category: "WEBSITES",
-    url: "https://www.youtube.com/shorts/111O5Gj3zSU",
-  },
-  {
-    id: 3,
-    title: "3d",
-    vedioId: "7anKqdNp5RE",
-    category: "WEBSITES",
-    url: "https://www.youtube.com/shorts/7anKqdNp5RE",
-  },
-  {
-    id: 4,
-    title: "3d",
-    vedioId: "7anKqdNp5RE",
-    category: "WEBSITES",
-    url: "https://www.youtube.com/shorts/7anKqdNp5RE",
-  },
+  // {
+  //   id: 2,
+  //   title: "3d",
+  //   vedioId: "111O5Gj3zSU",
+  //   category: "WEBSITES",
+  //   url: "https://www.youtube.com/shorts/111O5Gj3zSU",
+  // },
+  // {
+  //   id: 3,
+  //   title: "3d",
+  //   vedioId: "7anKqdNp5RE",
+  //   category: "WEBSITES",
+  //   url: "https://www.youtube.com/shorts/7anKqdNp5RE",
+  // },
+  // {
+  //   id: 4,
+  //   title: "3d",
+  //   vedioId: "7anKqdNp5RE",
+  //   category: "WEBSITES",
+  //   url: "https://www.youtube.com/shorts/7anKqdNp5RE",
+  // },
 ];
 
 export const code = [
